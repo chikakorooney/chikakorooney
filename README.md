@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chikakorooney
-- 👀 I’m interested in Machine Learning in general
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning Nanodegree with Udacity
 - 💞️ I’m looking to collaborate on Machine Learning Algorithms
 - 📫 How to reach me ...chikako.rooney@gmail.com
