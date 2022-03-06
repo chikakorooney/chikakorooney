@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chikakorooney
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning Nanodegree with Udacity, and studying Computer Science at University of Bath
+- 🌱 I’m currently learning Machine Learning Nanodegree with Udacity, and Computer Science with University of Bath
 
 <!---
 chikakorooney/chikakorooney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
